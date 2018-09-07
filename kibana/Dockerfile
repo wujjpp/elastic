@@ -1,2 +1,2 @@
-FROM docker.elastic.co/kibana/kibana:6.3.2
+FROM docker.elastic.co/kibana/kibana:6.4.0
 MAINTAINER wujjpp <wujjpp@hotmail.com>
