@@ -1,2 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:6.4.2
-MAINTAINER wujjpp <wujjpp@hotmail.com>
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.0

@@ -1,2 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:6.4.2
-MAINTAINER wujjpp <wujjpp@hotmail.com>
+FROM docker.elastic.co/logstash/logstash:7.10.0
